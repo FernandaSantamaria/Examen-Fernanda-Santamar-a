@@ -1,0 +1,15 @@
+body {
+    font-family: cambria Italic, 'Franklin Gothic Medium';
+    background-color:rgb(247, 195, 204); 
+    
+    .btn-enviar {
+        background-color: #4CAF50; 
+     color: #fff;
+}
+
+    .btn-enviar:hover {
+        background-color: #45a049; 
+}
+
+
+}
